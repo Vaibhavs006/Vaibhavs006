@@ -13,23 +13,18 @@
 
 ## 🧩 About Me
 
-- 🖥️ Passionate about **embedded systems, AI/ML, and robotics**.
-- ⚡ Currently building projects in **C, Python, and IoT**.
+- 🖥️ Passionate about **Enthical hacking and robotics**.
+- ⚡ Currently building projects in ***.
 - 💡 Love to learn, solve problems, and optimize systems.
-- 🌀 Sharingan always active while debugging.
-
+- 🌀Living life on chill mode. Sharingan active for fun, not stress.
 ---
 
 ## 🚀 My Tech Stack
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
 
 ## 📊 GitHub Stats
 
@@ -52,21 +47,19 @@
 | Project | Description |
 |---------|-------------|
 | **[🔗 My Adventure](https://github.com/mangekyou-sharingan006/my-adventure)** | A growing collection of my personal projects, notes, and experiments. |
-| **[🔗 Automation Scripts](https://github.com/mangekyou-sharingan006/automation-scripts)** | Scripts to automate daily workflows on Linux and Arduino. |
-| **[🔗 Embedded Systems Playground](https://github.com/mangekyou-sharingan006/embedded-playground)** | Experimenting with sensors, relays, and microcontrollers. |
 
 ---
 
 ## 💬 Quote I Live By
 
-> **“The Sharingan sees through deception, but true clarity comes from learning.”**
+> **“Look forward. That’s all I do.”**
 
 ---
 
 ## 📫 Connect With Me
 
-- Email: **vaibhav@example.com**
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourlinkedin)
+- Email: **vaibhavvs2006@gmail.com**
+- LinkedIn: www.linkedin.com/in/vaibhav-v-s-96156432a)
 
 ---
 
