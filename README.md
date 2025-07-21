@@ -5,8 +5,7 @@
 <h1 align="center">Hi, I'm Vaibhav 👋</h1>
 
 <p align="center">
-  <b>✨ Developer | ML & Embedded Enthusiast | Curious Learner ✨</b> <br>
-  Crafting intelligent code, one Sharingan spin at a time.
+  <b>✨ Exploring code, robotics, and the art of ethical hacking.
 </p>
 
 ---
