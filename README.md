@@ -1,21 +1,22 @@
 <p align="center">
-  <img src="https://your-banner-link.png" alt="banner">
+  <img src="https://raw.githubusercontent.com/mangekyou-sharingan006/mangekyou-sharingan006/refs/heads/main/assets/JEXfT1t-naruto-sage-mode-wallpaper.jpg" alt="Naruto Sage Mode Poster" width="600"/>
 </p>
 
 <h1 align="center">Hi, I'm Vaibhav 👋</h1>
 
 <p align="center">
-  <b>✨ Exploring code, robotics, and the art of ethical hacking.
+  <b>✨ Exploring code, robotics, and the art of ethical hacking.</b>
 </p>
 
 ---
 
 ## 🧩 About Me
 
-- 🖥️ Passionate about **Enthical hacking and robotics**.
-- ⚡ Currently building projects in ***.
+- 🖥️ Passionate about **Ethical hacking and robotics**.
+- ⚡ Currently building projects in **automation and embedded systems**.
 - 💡 Love to learn, solve problems, and optimize systems.
-- 🌀Living life on chill mode. Sharingan active for fun, not stress.
+- 🌀 Living life on chill mode. Sharingan active for fun, not stress.
+
 ---
 
 ## 🚀 My Tech Stack
@@ -24,6 +25,8 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats
 
@@ -58,7 +61,7 @@
 ## 📫 Connect With Me
 
 - Email: **vaibhavvs2006@gmail.com**
-- LinkedIn: www.linkedin.com/in/vaibhav-v-s-96156432a)
+- LinkedIn: [Vaibhav V S](https://www.linkedin.com/in/vaibhav-v-s-96156432a)
 
 ---
 
