@@ -29,17 +29,16 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mangekyou-sharingan006&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavs006&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mangekyou-sharingan006&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavs006&theme=tokyonight" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mangekyou-sharingan006&theme=github-compact" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhavs006&theme=github-compact" alt="GitHub Activity Graph">
 </p>
 
 ---
