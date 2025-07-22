@@ -12,10 +12,9 @@
 
 ## 🧩 About Me
 
-- 🖥️ Passionate about **Ethical hacking and robotics**.
-- ⚡ Currently building projects in **automation and embedded systems**.
+- 🖥️ Passionate about **Ethical hacking and robotics**
 - 💡 Love to learn, solve problems, and optimize systems.
-- 🌀 Living life on chill mode. Sharingan active for fun, not stress.
+- 🌀 Living life in chill mode. Sharingan active for fun, not stress.
 
 ---
 
