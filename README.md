@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/mangekyou-sharingan006/mangekyou-sharingan006/refs/heads/main/assets/JEXfT1t-naruto-sage-mode-wallpaper.jpg" alt="Naruto Sage Mode Poster" width="600"/>
 </p>
 
-<h1 align="center">Yo, I'm Vaibhav here 🚀</h1>
+<h1 align="center">Yo, Vaibhav here 🚀</h1>
 
 <p align="center">
   <b>🧠 AI Warfare • 🛰️ Defense Tech • 🤖 Robotics • ⚔️ Code that kills</b>
