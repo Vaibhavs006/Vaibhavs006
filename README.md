@@ -1,11 +1,14 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/mangekyou-sharingan006/mangekyou-sharingan006/refs/heads/main/assets/JEXfT1t-naruto-sage-mode-wallpaper.jpg" alt="Naruto Sage Mode Poster" width="600"/>
 </p>
-
-<h1 align="center">Yo, Vaibhav here 🚀</h1>
+<h1 align="center">⚔️ Yo, I'm Vaibhav 🚀</h1>
 
 <p align="center">
-  <b>🧠 AI Warfare • 🛰️ Defense Tech • 🤖 Robotics • ⚔️ Code that kills</b>
+  <b>🧠 AI Warfare • 🛰️ Defense Tech • 🤖 Robotics • ⚙️ Autonomous Systems</b>
+</p>
+
+<p align="center">
+  <i>"Code that sees. Code that fights."</i>
 </p>
 
 ---
@@ -20,12 +23,15 @@
 
 ## 🧪 My Tech Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-> 
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge&logo=ros&logoColor=white"/>
+</p>
 
 ---
 
