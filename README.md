@@ -1,15 +1,17 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/mangekyou-sharingan006/mangekyou-sharingan006/refs/heads/main/assets/JEXfT1t-naruto-sage-mode-wallpaper.jpg" alt="Naruto Sage Mode Poster" width="600"/>
 </p>
+
 <h1 align="center">⚔️ Yo, I'm Vaibhav 🚀</h1>
 
 <p align="center">
-  <b>🧠 AI Warfare • 🛰️ Defense Tech • 🤖 Robotics • ⚙️ Autonomous Systems</b>
+  <b>🧠 AI Warfare &nbsp;•&nbsp; 🛰️ Defense Tech &nbsp;•&nbsp; 🤖 Robotics &nbsp;•&nbsp; ⚙️ Autonomous Systems</b>
 </p>
 
 <p align="center">
   <i>"Code that sees. Code that fights."</i>
 </p>
+
 
 ---
 
@@ -17,7 +19,9 @@
 
 - 💻 Passionate about **AI-driven bots, robotics, autonomous weapons**
 - 🧠 Focused on the software side of defense systems — **no web dev zone**
+- 🛡️ Building systems that **think, adapt, and dominate**
 - 🧢 Naruto mode: Calm outside, war-ready inside
+- 🔭 Currently exploring: **Computer Vision + ROS2 + Embedded AI**
 
 ---
 
@@ -31,6 +35,9 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
 </p>
 
 ---
@@ -38,31 +45,73 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavs006&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavs006&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavs006&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="38%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavs006&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavs006&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhavs006&theme=github-compact" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhavs006&theme=github-compact&border_radius=10" alt="GitHub Activity Graph"/>
 </p>
 
 ---
 
-## 💬 Quote I Live By
-> “Look forward. That’s all I do.”
+## ⚙️ Currently Building
 
-> "If you're going through hell, keep going." – Winston Churchill
+```python
+class Vaibhav:
+    def __init__(self):
+        self.name       = "Vaibhav V S"
+        self.role       = "AI & Defense Systems Engineer"
+        self.languages  = ["Python", "C", "Java"]
+        self.interests  = ["Computer Vision", "Autonomous Robots", "Embedded AI", "ROS2"]
+        self.weapon     = "Code"
+        self.mode       = "Sage Mode 🔥"
 
-## 📫 Contact Me
+    def deploy(self):
+        return "Build. Train. Dominate."
 
-- 📧 Email: **vaibhavvs2006@gmail.com**
-- 💼 LinkedIn: [Vaibhav V S](https://www.linkedin.com/in/vaibhav-v-s-96156432a)
+me = Vaibhav()
+print(me.deploy())
+```
+
+---
+
+## 🧠 The Mindset
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20you%27re%20going%20through%20hell%2C%20keep%20going.&author=Winston%20Churchill" alt="The Mindset"/>
+</p>
+
+---
+
+## Random  Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:vaibhavvs2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vaibhav-v-s-96156432a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Vaibhavs006">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" alt="wave">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Keep%20Building.%20Keep%20Fighting.&fontSize=24&fontColor=fff&animation=twinkling" alt="footer wave"/>
 </p>
