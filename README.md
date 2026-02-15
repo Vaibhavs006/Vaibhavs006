@@ -20,27 +20,48 @@
 - 💻 Passionate about **AI-driven bots, robotics, autonomous weapons**
 - 🧠 Focused on the software side of defense systems — **no web dev zone**
 - 🛡️ Building systems that **think, adapt, and dominate**
-- 🧢 Naruto mode: Calm outside, war-ready inside
-- 🔭 Currently exploring: **Computer Vision + ROS2 + Embedded AI**
+- 🔭 Currently exploring: ****
 
 ---
 
 ## 🧪 My Tech Stack
 
+🧑‍💻 Languages
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+🤖 Hardware & IoT
+<p align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
 
----
+
+🧠 AI / ML
+<p align="center">
+
+</p>
+
+🛠️ Tools & Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+📦 Frameworks & Libraries
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge&logo=ros&logoColor=white"/>
+</p>
+
 
 ## 📊 GitHub Stats
 
@@ -67,7 +88,7 @@ class Vaibhav:
         self.name       = "Vaibhav V S"
         self.role       = "AI & Defense Systems Engineer"
         self.languages  = ["Python", "C", "Java"]
-        self.interests  = ["Computer Vision", "Autonomous Robots", "Embedded AI", "ROS2"]
+        self.interests  = ["Computer Vision", "Autonomous Robots", "ROS2"]
         self.weapon     = "Code"
         self.mode       = "Sage Mode 🔥"
 
@@ -88,14 +109,6 @@ print(me.deploy())
 
 ---
 
-## Random  Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -104,9 +117,6 @@ print(me.deploy())
   </a>
   <a href="https://www.linkedin.com/in/vaibhav-v-s-96156432a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Vaibhavs006">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
