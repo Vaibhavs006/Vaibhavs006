@@ -44,7 +44,7 @@
 
 🧠 AI / ML
 <p align="center">
-
+<img src="https://img.shields.io/badge/MediaPipe-0A84FF?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
 🛠️ Tools & Systems
