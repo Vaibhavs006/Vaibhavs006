@@ -40,19 +40,28 @@
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
-
-
 🧠 AI / ML
 <p align="center">
 <img src="https://img.shields.io/badge/MediaPipe-0A84FF?style=for-the-badge&logo=google&logoColor=white"/>
+ <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
 </p>
 
+🖥️ Frontend & UI
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canvas-008EB0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
 🛠️ Tools & Systems
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 </p>
 
 📦 Frameworks & Libraries
@@ -60,10 +69,19 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+   FUTURE LIFE 
+   <p align="center">
+   <img src="https://img.shields.io/badge/SLAM-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Path_Planning-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kinematics-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Control_Systems-00897B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Localization-3949AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sensor_Fusion-FF7043?style=for-the-badge"/>
 </p>
 
-
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavs006&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="GitHub Stats" width="48%"/>
@@ -121,7 +139,6 @@ print(me.deploy())
 </p>
 
 ---
-
-<p align="center">
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWt4MDZ4ZWEzaG1sbWs2YWJpZWp4b3I5c3AxYnNwZXdxYm5hbHgzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LSKHkpRJySs5W81D7B/giphy.gif](https://media.tenor.com/aT-RbZNA4R8AAAAj/naruto-naruto-shippuden.gif" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Keep%20Building.%20Keep%20Fighting.&fontSize=24&fontColor=fff&animation=twinkling" alt="footer wave"/>
 </p>
