@@ -71,15 +71,6 @@
   <img src="https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
-   FUTURE LIFE 
-   <p align="center">
-   <img src="https://img.shields.io/badge/SLAM-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Path_Planning-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kinematics-6A1B9A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Control_Systems-00897B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Localization-3949AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Sensor_Fusion-FF7043?style=for-the-badge"/>
-</p>
 
 📊 GitHub Stats
 
