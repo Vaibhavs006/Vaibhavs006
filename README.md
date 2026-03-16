@@ -89,27 +89,6 @@
 
 ---
 
-## ⚙️ Currently Building
-
-```python
-class Vaibhav:
-    def __init__(self):
-        self.name       = "Vaibhav V S"
-        self.role       = "AI & Defense Systems Engineer"
-        self.languages  = ["Python", "C", "Java"]
-        self.interests  = ["Computer Vision", "Autonomous Robots", "ROS2"]
-        self.weapon     = "Code"
-        self.mode       = "Sage Mode 🔥"
-
-    def deploy(self):
-        return "Build. Train. Dominate."
-
-me = Vaibhav()
-print(me.deploy())
-```
-
----
-
 ## 🧠 The Mindset
 
 <p align="center">
