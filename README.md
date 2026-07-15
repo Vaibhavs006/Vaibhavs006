@@ -66,8 +66,25 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-📊 GitHub Stats
+📊 GitHub Stats Contributions
+---
 
+##  Recent PR Activity
+
+| PR | Repository | Status | Description |
+|----|------------|--------|-------------|
+| [#42](https://github.com/owner/repo/pull/42) | [Repo Name](https://github.com/owner/repo) | ✅ Merged | Added YOLOv8 integration for real-time object detection |
+| [#15](https://github.com/owner/repo/pull/15) | [Repo Name](https://github.com/owner/repo) | 🔄 Open | Implemented ROS2 navigation stack optimization |
+| [#7](https://github.com/owner/repo/pull/7) | [Repo Name](https://github.com/owner/repo) | ✅ Merged | Fixed memory leak in Jetson inference pipeline |
+
+---
+### 📊 Contribution Metrics
+<p align="center">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhavs006&theme=github-compact&border_radius=10&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff69b4" alt="Contribution Graph"/>
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavs006&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavs006&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="38%"/>
@@ -77,11 +94,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavs006&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhavs006&theme=github-compact&border_radius=10" alt="GitHub Activity Graph"/>
-</p>
 
 ---
+
 
 ## 🧠 The Mindset
 
