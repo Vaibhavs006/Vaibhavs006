@@ -8,47 +8,55 @@
   <i>"Code that sees. Code that fights."</i>
 </p>
 
----
+<p align="center">
+  <a href="https://vaibhav-vs-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-2563EB?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+  </a>
 
 ## 🧩 About Me
 
-- 💻 Passionate about **AI-driven bots, robotics, autonomous weapons**
-- 🧠 Focused on the software side of defense systems — **no web dev zone**
-- 🛡️ Building systems that **think, adapt, and dominate**
-- 🔭 Currently exploring: ****
+I'm a 2nd‑year **Information Technology** student at RV College of Engineering, Bangalore, with a relentless passion for building intelligent systems that operate at the edge of defense and autonomy.  
+
+- 🏆 **5 competitions** under my belt – from IIT Bombay to ISRO – with a Second Stage finish at Eyantra and a finalist spot at IRoC‑U.  
+- 🔧 **2 merged PRs** in the Gazebo open‑source simulator (gz‑sim), plus a GSoC proposal submitted to OSRF.  
+- 🧠 I thrive at the intersection of **AI, robotics, and real‑time systems** , code that perceives, decides, and acts in the physical world.  
+- 🔭 Currently diving deeper into **swarm coordination** and **edge AI** for the NXP Cup and Anveshan projects.
 
 ---
 
 ## 🧪 My Tech Stack
 
-🧑‍💻 Languages
+**🧑‍💻 Languages**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
-🤖 Hardware & IoT
+
+**🤖 Hardware & IoT**
 <p align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
-🧠 AI / ML
+
+**🧠 AI / ML**
 <p align="center">
-<img src="https://img.shields.io/badge/MediaPipe-0A84FF?style=for-the-badge&logo=google&logoColor=white"/>
- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MediaPipe-0A84FF?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
 </p>
 
-🖥️ Frontend & UI
+**🖥️ Frontend & UI**
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canvas-008EB0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
-🛠️ Tools & Systems
+
+**🛠️ Tools & Systems**
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -58,7 +66,7 @@
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 </p>
 
-📦 Frameworks & Libraries
+**📦 Frameworks & Libraries**
 <p align="center">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
@@ -66,25 +74,49 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-📊 GitHub Stats Contributions
 ---
 
-##  Recent PR Activity
+## ⭐ Featured Project: Eyantra Swarm‑Bot 2025
+
+**Autonomous swarm of holonomic robots** built for the national‑level Eyantra challenge at IIT Bombay.
+
+- 🔹 **Coordinated multi‑agent system** – each robot runs ROS 2 nodes for perception, planning, and control.  
+- 🔹 **Precision navigation** using OpenCV‑based marker tracking and odometry fusion.  
+- 🔹 **Real‑time communication** between agents to share map data and task status.  
+- 🔹 Achieved a **top‑10 finish** among 150+ teams.
+
+🔗 [View Repository →](https://github.com/Vaibhavs006/Eyantra--Swarm-Bot--2025)
+
+---
+
+## 🏆 Competition Showcase
+
+| Competition | Year | Status | My Role | Outcome |
+|-------------|------|--------|---------|---------|
+| **IRoC‑U** – ISRO Robotics Challenge | 2026 | Closed | Software Developer | Advanced to Elimination Round |
+| **Eyantra** – IIT Bombay | 2025 | Completed | Team Software Lead | Top‑10 finish |
+| **University Rover Challenge (URC)** | 2025 | Completed | Communications Lead | Designed video/telemetry pipeline |
+| **NXP Cup** – Autonomous Driving | 2026 | Ongoing | Lead Developer | Building vision‑based model car |
+| **Anveshan** – Autonomous Long‑Range Device | 2026 | Ongoing | Project Lead | Sensor fusion & edge computing |
+
+---
+
+## 🔀 Real PR Activity (Open Source Contributions)
 
 | PR | Repository | Status | Description |
 |----|------------|--------|-------------|
-| [#42](https://github.com/owner/repo/pull/42) | [Repo Name](https://github.com/owner/repo) | ✅ Merged | Added YOLOv8 integration for real-time object detection |
-| [#15](https://github.com/owner/repo/pull/15) | [Repo Name](https://github.com/owner/repo) | 🔄 Open | Implemented ROS2 navigation stack optimization |
-| [#7](https://github.com/owner/repo/pull/7) | [Repo Name](https://github.com/owner/repo) | ✅ Merged | Fixed memory leak in Jetson inference pipeline |
+| [#3433](https://github.com/gazebosim/gz-sim/pull/3433) | [gz-sim](https://github.com/gazebosim/gz-sim) | ✅ Merged | Improved Doxygen API documentation clarity |
+| [#3443](https://github.com/gazebosim/gz-sim/pull/3443) | [gz-sim](https://github.com/gazebosim/gz-sim) | ✅ Merged | Additional documentation fixes and examples |
+| [Fork](https://github.com/Vaibhavs006/gz-sim) | [gz-sim](https://github.com/gazebosim/gz-sim) | 🔄 Active | Personal R&D fork – testing reset mechanics |
 
 ---
-### 📊 Contribution Metrics
-<p align="center">
-</p>
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhavs006&theme=github-compact&border_radius=10&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff69b4" alt="Contribution Graph"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavs006&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavs006&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="38%"/>
@@ -94,9 +126,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavs006&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
 </p>
 
-
 ---
-
 
 ## 🧠 The Mindset
 
@@ -118,6 +148,11 @@
 </p>
 
 ---
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWt4MDZ4ZWEzaG1sbWs2YWJpZWp4b3I5c3AxYnNwZXdxYm5hbHgzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LSKHkpRJySs5W81D7B/giphy.gif](https://media.tenor.com/aT-RbZNA4R8AAAAj/naruto-naruto-shippuden.gif" />
+
+<p align="center">
+  <img src="https://media.tenor.com/aT-RbZNA4R8AAAAj/naruto-naruto-shippuden.gif" alt="Naruto GIF" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Keep%20Building.%20Keep%20Fighting.&fontSize=24&fontColor=fff&animation=twinkling" alt="footer wave"/>
 </p>
