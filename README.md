@@ -1,7 +1,7 @@
-<h1 align="center">⚔️ Hey, I'm Vaibhav 🚀</h1>
+<h1 align="center">⚔️ Hey, I'm Vaibhav </h1>
 
 <p align="center">
-  <b>🧠 AI Warfare &nbsp;•&nbsp; 🛰️ Defense Tech &nbsp;•&nbsp; 🤖 Robotics &nbsp;•&nbsp; ⚙️ Autonomous Systems</b>
+  <b> 🛰️ Defense Tech &nbsp;•&nbsp; 🤖 Robotics &nbsp;•&nbsp; ⚙️ Autonomous Systems</b>
 </p>
 
 <p align="center">
@@ -15,12 +15,11 @@
 
 ## 🧩 About Me
 
-I'm a 2nd‑year **Information Technology** student at RV College of Engineering, Bangalore, with a relentless passion for building intelligent systems that operate at the edge of defense and autonomy.  
+I'm a 3rd‑year **Information Technology** student at RV College of Engineering, Bangalore, with a  passion for building intelligent systems that operate at the edge of defense and autonomy.  
 
 - 🏆 **5 competitions** under my belt – from IIT Bombay to ISRO – with a Second Stage finish at Eyantra and a finalist spot at IRoC‑U.  
 - 🔧 **2 merged PRs** in the Gazebo open‑source simulator (gz‑sim), plus a GSoC proposal submitted to OSRF.  
 - 🧠 I thrive at the intersection of **AI, robotics, and real‑time systems**, code that perceives, decides, and acts in the physical world.  
-- 🔭 Currently diving deeper into **swarm coordination** and **edge AI** for the NXP Cup and Anveshan projects.
 
 ---
 
@@ -93,8 +92,8 @@ I'm a 2nd‑year **Information Technology** student at RV College of Engineering
 
 | Competition | Year | Status | My Role | Outcome |
 |-------------|------|--------|---------|---------|
-| **IRoC‑U** – ISRO Robotics Challenge | 2026 | Closed | Software Developer | Advanced to Elimination Round |
-| **Eyantra** – IIT Bombay | 2025 | Completed | Team Software Lead | Stage 2 |
+| **IRoC‑U** – ISRO Robotics Challenge | 2026 | Closed | Software  | Advanced to Final Round |
+| **Eyantra** – IIT Bombay | 2025 | Completed | Software Lead | Stage 2 |
 | **University Rover Challenge (URC)** | 2025 | Completed | Communications Lead | Designed video/telemetry pipeline |
 | **Anveshan** – Autonomous Long‑Range Device | 2026 | Ongoing | Software Lead |  |
 
