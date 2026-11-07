@@ -82,7 +82,7 @@ I'm a 3rd‑year **Information Technology** student at RV College of Engineering
 - 🔹 **Coordinated multi‑agent system** – each robot runs ROS 2 nodes for perception, planning, and control.  
 - 🔹 **Precision navigation** using OpenCV‑based marker tracking and odometry fusion.  
 - 🔹 **Real‑time communication** between agents to share map data and task status.  
-- 🔹 Achieved a **top‑10 finish** among 150+ teams.
+- 🔹 Achieved a **Stage 2 finish** among 150+ teams.
 
 🔗 [View Repository →](https://github.com/Vaibhavs006/Eyantra--Swarm-Bot--2025)
 
