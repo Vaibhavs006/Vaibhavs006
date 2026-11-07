@@ -8,10 +8,6 @@
   <i>"Code that sees. Code that fights."</i>
 </p>
 
-<p align="center">
-  <a href="https://vaibhav-vs-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-2563EB?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
-  </a>
 
 ## 🧩 About Me
 
