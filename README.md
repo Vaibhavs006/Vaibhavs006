@@ -1,25 +1,32 @@
-<h1 align="center">⚔️ Hey, I'm Vaibhav </h1>
+<h1 align="center">⚔️ Hi, I'm Vaibhav</h1>
 
 <p align="center">
-  <b> 🛰️ Defense Tech &nbsp;•&nbsp; 🤖 Robotics &nbsp;•&nbsp; ⚙️ Autonomous Systems</b>
+  <b>🛰️ Defense Tech &nbsp;|&nbsp; 🤖 Robotics &nbsp;|&nbsp; ⚙️ Autonomous Systems</b>
 </p>
 
 <p align="center">
   <i>"Code that sees. Code that fights."</i>
 </p>
 
-
-## 🧩 About Me
-
-I'm a 3rd‑year **Information Technology** student at RV College of Engineering, Bangalore, with a  passion for building intelligent systems that operate at the edge of defense and autonomy.  
-
-- 🏆 **5 competitions** under my belt – from IIT Bombay to ISRO – with a Second Stage finish at Eyantra and a finalist spot at IRoC‑U.  
-- 🔧 **2 merged PRs** in the Gazebo open‑source simulator (gz‑sim), plus a GSoC proposal submitted to OSRF.  
-- 🧠 I thrive at the intersection of **AI, robotics, and real‑time systems**, code that perceives, decides, and acts in the physical world.  
+<p align="center">
+  <a href="mailto:vaibhavvs2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vaibhav-v-s-96156432a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Vaibhavs006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🧪 My Tech Stack
+## 🧩 About Me
+
+I'm a 3rd year **Information Technology** student at RV College of Engineering, Bangalore. I build intelligent systems that operate at the edge of defense and autonomy.
+
+- 🏆 **5 competitions** under my belt, from IIT Bombay to ISRO, including a **Stage 2 finish at Eyantra** and a **finalist spot at IRoC-U**
+- 🔧 **2 merged PRs** in the Gazebo simulator (gz-sim), plus a **GSoC proposal** submitted to OSRF
+- 🧠 I work at the intersection of **AI, robotics, and real-time systems**: code that perceives, decides, and acts in the physical world
+
+---
+
+## 🧪 Tech Stack
 
 **🧑‍💻 Languages**
 <p align="center">
@@ -70,37 +77,37 @@ I'm a 3rd‑year **Information Technology** student at RV College of Engineering
 
 ---
 
-## ⭐ Featured Project: Eyantra Swarm‑Bot 2025
+## ⭐ Featured Project: Eyantra Swarm-Bot 2025
 
-**Autonomous swarm of holonomic robots** built for the national‑level Eyantra challenge at IIT Bombay.
+An **autonomous swarm of holonomic robots** built for the national-level Eyantra challenge at IIT Bombay.
 
-- 🔹 **Coordinated multi‑agent system** – each robot runs ROS 2 nodes for perception, planning, and control.  
-- 🔹 **Precision navigation** using OpenCV‑based marker tracking and odometry fusion.  
-- 🔹 **Real‑time communication** between agents to share map data and task status.  
-- 🔹 Achieved a **Stage 2 finish** among 150+ teams.
+- 🔹 **Coordinated multi-agent system**: each robot runs ROS 2 nodes for perception, planning, and control
+- 🔹 **Precision navigation** using OpenCV-based marker tracking and odometry fusion
+- 🔹 **Real-time communication** between agents to share map data and task status
+- 🔹 **Result:** Stage 2 finish among 150+ teams
 
-🔗 [View Repository →](https://github.com/Vaibhavs006/Eyantra--Swarm-Bot--2025)
+🔗 **[View Repository →](https://github.com/Vaibhavs006/Eyantra--Swarm-Bot--2025)**
 
 ---
 
-## 🏆 Competition Showcase
+## 🏆 Competitions
 
 | Competition | Year | Status | My Role | Outcome |
 |-------------|------|--------|---------|---------|
-| **IRoC‑U** – ISRO Robotics Challenge | 2026 | Closed | Software  | Advanced to Final Round |
-| **Eyantra** – IIT Bombay | 2025 | Completed | Software Lead | Stage 2 |
-| **University Rover Challenge (URC)** | 2025 | Completed | Communications Lead | Designed video/telemetry pipeline |
-| **Anveshan** – Autonomous Long‑Range Device | 2026 | Ongoing | Software Lead |  |
+| **IRoC-U** (ISRO Robotics Challenge) | 2026 | Closed | Software | Advanced to Final Round |
+| **Eyantra** (IIT Bombay) | 2025 | Completed | Software Lead | Stage 2 |
+| **University Rover Challenge (URC)** | 2025 | Completed | Communications Lead | Designed video and telemetry pipeline |
+| **Anveshan** (Autonomous Long-Range Device) | 2026 | Ongoing | Software Lead | In progress |
 
 ---
 
-## 🔀  PR Activity (Open Source Contributions)
+## 🔀 Open Source Contributions
 
 | PR | Repository | Status | Description |
 |----|------------|--------|-------------|
 | [#3433](https://github.com/gazebosim/gz-sim/pull/3433) | [gz-sim](https://github.com/gazebosim/gz-sim) | ✅ Merged | Improved Doxygen API documentation clarity |
 | [#3443](https://github.com/gazebosim/gz-sim/pull/3443) | [gz-sim](https://github.com/gazebosim/gz-sim) | ✅ Merged | Additional documentation fixes and examples |
-| [Fork](https://github.com/Vaibhavs006/gz-sim) | [gz-sim](https://github.com/gazebosim/gz-sim) | 🔄 Active | Personal R&D fork – testing reset mechanics |
+| [Fork](https://github.com/Vaibhavs006/gz-sim) | [gz-sim](https://github.com/gazebosim/gz-sim) | 🔄 Active | Personal R&D fork testing reset mechanics |
 
 ---
 
@@ -116,7 +123,7 @@ I'm a 3rd‑year **Information Technology** student at RV College of Engineering
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavs006&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Vaibhavs006&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -128,23 +135,6 @@ I'm a 3rd‑year **Information Technology** student at RV College of Engineering
 </p>
 
 ---
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:vaibhavvs2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vaibhav-v-s-96156432a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.tenor.com/aT-RbZNA4R8AAAAj/naruto-naruto-shippuden.gif" alt="Naruto GIF" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Keep%20Building.%20Keep%20Fighting.&fontSize=24&fontColor=fff&animation=twinkling" alt="footer wave"/>
